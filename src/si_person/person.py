@@ -3,6 +3,7 @@ import data
 
 class Person:
 
+
     def name(self):
         return random.choice(data.first_name)
 
@@ -13,4 +14,9 @@ class Person:
         return f'{random.choice(data.street_names)} {random.randint(1,70)}'
     def zip_city(self):
         return  f'{random.choice(data.postal_code)} {random.choice(data.city)}'
+
+
+    def give_me_name(self):
+        return random.choice(data.first_name)
+
 

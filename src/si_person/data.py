@@ -200,6 +200,7 @@ first_name = [
 'Žiga',
 'Zoran',
 'Zvonko',
+
 ]
 
 last_name = [
@@ -1709,3 +1710,5 @@ city = [
 'Zgornji Leskovec ',
 
 ]
+
+
