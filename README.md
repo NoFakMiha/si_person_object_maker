@@ -7,7 +7,7 @@ PyPi package which will make random person object with Slovenian names, last nam
 How to use it:
 
 ```python
-from person import Person
+from src.si_person.person import Person
 
 p = Person()
 
