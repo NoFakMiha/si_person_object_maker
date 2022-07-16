@@ -1,5 +1,5 @@
 import random
-import data
+import src.si_person.data as data
 
 class Person:
 
